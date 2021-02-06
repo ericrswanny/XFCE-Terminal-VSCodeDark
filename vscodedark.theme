@@ -1,0 +1,9 @@
+[Scheme]
+Name=VSCodeDark
+ColorCursor=#D4D4D4
+ColorForeground=#D4D4D4
+ColorBackground=#1E1E1E
+TabActivityColor=#88C0D0
+ColorPalette=#2F2F2F;#F44747;#608B4E;#D7BA7D;#569CD6;#646695;#88C0D0;#E5E9F0;#8F8F8F;#D16969;#B5CEA8;#DCDCAA;#9CDCFE;#C586C0;#8FBCBB;#ECEFF4
+ColorBold=#D4D4D4
+ColorBoldUseDefault=FALSE
